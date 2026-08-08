@@ -1,4 +1,4 @@
-# Server Dashboard
+# Server Dashboard.
 
 A modern, responsive server monitoring dashboard built with **Node.js, Express, HTML, CSS, and Vanilla JavaScript**.
 
