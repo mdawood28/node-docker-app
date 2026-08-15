@@ -35,6 +35,7 @@ server-dashboard/
 │
 ├── server.js
 ├── package.json
+├── Dockerfile
 │
 └── public/
     ├── index.html
